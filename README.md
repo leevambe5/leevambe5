@@ -1,6 +1,6 @@
-#  Leon Vambe👋
+#  <p align="center"> Hi👋 I'm Leon! </p>
 
-### 📚 About Me:
+## 💫 About Me:
 ****`Analytics Engineering Enthusiast`****
 
 I am a Business Intelligence and Technology Risk professional with a passion for leveraging data-driven insights to drive business success and mitigate risks. With expertise in Revenue Assurance, Fraud Management, and Information Systems Risk & Controls, I have contributed to the Energy, Telecommunications, and FinTech sectors.
@@ -14,7 +14,12 @@ As I look toward the future, I am pivoting towards analytics engineering. I am p
 - 😄 Pronouns: He/Him/His 👦 
 - ⚡ Fun fact: Class D Chess Player ♟️
 
-### 💻 Languages and Tools:
+## 📚 Education:
+- MS Business Analytics | Emory University (USA)
+- MSc Big Data Analytics | Chinhoyi University of Technology (Zimbabwe)
+- BSc Business Studies and Computing Science | University of Zimbabwe (Zimbabwe)
+   
+## 💻 Languages and Tools:
 **Category** | **Technologies**  
 --- | ---  
 **<sub>Languages</sub>** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)  ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)  ![PowerShell](https://img.shields.io/badge/-PowerShell-2CA5E0?style=flat-square&logo=powershell&logoColor=white) 
@@ -24,8 +29,7 @@ As I look toward the future, I am pivoting towards analytics engineering. I am p
 **<sub>Cloud Platforms</sub>** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)  ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)  
 **<sub>Data Science & Machine Learning</sub>** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  ![Gephi](https://img.shields.io/badge/-Gephi-8B4F96?style=flat-square&logo=gephi&logoColor=white)  ![RapidMiner](https://img.shields.io/badge/-RapidMiner-FF7F00?style=flat-square&logo=rapidminer&logoColor=white)
 **<sub>Big Data Technologies</sub>** | ![Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-66CC00?style=flat-square&logo=hadoop&logoColor=white)  ![Hive](https://img.shields.io/badge/-Apache%20Hive-F0DB4F?style=flat-square&logo=hive&logoColor=black)  ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)  ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)  ![Flink](https://img.shields.io/badge/-Apache%20Flink-1B4B7F?style=flat-square&logo=apache-flink&logoColor=white)  ![Pig](https://img.shields.io/badge/-Pig-F3A42A?style=flat-square&logo=apache-pig&logoColor=white)  ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)  ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-0172B8?style=flat-square&logo=apache-airflow&logoColor=white)  ![Databricks](https://img.shields.io/badge/-Databricks-FF3E00?style=flat-square&logo=databricks&logoColor=white)
-<br />
 
-### 🌐 Connect With Me:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-vambe/) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leevambe5@gmail.com)
 
