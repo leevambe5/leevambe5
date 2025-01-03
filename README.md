@@ -11,8 +11,8 @@ As I look toward the future, I am pivoting towards analytics engineering. I am p
 
 - 🌱 I’m currently upskilling and working towards AWS Cloud Practitioner and Databricks Data Engineer Associate Certifications
 - 👯 I’m looking to collaborate on end-to-end analytics engineering projects
-- 😄 Pronouns: He/Him/His 👦 
-- ⚡ Fun fact: Class D Chess Player ♟️
+- 👦 Pronouns: He/Him/His 👦 
+- ♟️ Fun fact: Class D Chess Player 
 
 ## 📚 Education:
 - MS Business Analytics | Emory University (USA)
