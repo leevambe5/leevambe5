@@ -3,9 +3,7 @@
 ## 💫 About Me:
 ****`Analytics Engineering Enthusiast`****
 
-I am a Business Intelligence and Technology Risk professional with a passion for leveraging data-driven insights to drive business success and mitigate risks. With expertise in Revenue Assurance, Fraud Management, and Information Systems Risk & Controls, I have contributed to the Energy, Telecommunications, and FinTech sectors.
-
-Throughout my career, I have focused on identifying revenue leakage points and implementing proactive measures using advanced data analytics. Additionally, I’ve designed and monitored robust internal controls to ensure regulatory compliance and mitigate financial risks. My deep understanding of risk management frameworks has allowed me to collaborate cross-functionally, safeguarding organizational assets and optimizing operational efficiencies.
+I am a Business Intelligence and Technology Risk professional with a passion for leveraging data-driven insights to drive business success and mitigate risks. With expertise in Revenue Assurance, Fraud Management, and Information Systems Risk & Controls, I have contributed to the Energy, Telecommunications, and FinTech sectors. Throughout my career, I have focused on identifying revenue leakage points and implementing proactive measures using advanced data analytics. Additionally, I’ve designed and monitored robust internal controls to ensure regulatory compliance and mitigate financial risks. 
 
 As I look toward the future, I am pivoting towards analytics engineering. I am particularly interested in building scalable data pipelines and architectures for efficient data processing, enabling actionable insights and fostering innovation. By combining my background in risk management with a strong foundation in analytics engineering, I aim to drive more effective data solutions that empower organizations to unlock their full potential.
 
